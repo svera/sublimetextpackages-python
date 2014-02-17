@@ -1,0 +1,12 @@
+{
+	"installed_packages":
+	[
+		"GitGutter",
+		"Sass",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"SublimeLinter-pyflakes",
+		"SublimeREPL",
+		"Theme - Soda"
+	]
+}
