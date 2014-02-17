@@ -1,3 +1,5 @@
 *.cache
 *.last-run
 *.tmTheme
+.SublimeREPLHistory
+
